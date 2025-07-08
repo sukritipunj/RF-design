@@ -2,9 +2,11 @@
 Wilkinson 4-Way Power Divider
 
 
-The goal of this project is to design, simulate, and analyze a Wilkinson 4-way power divider operating in the X-band (8–12 GHz), with optimal performance centered around 10 GHz.
+The goal is to design, simulate, and analyze a Wilkinson 4-way power divider operating in the X-band (8–12 GHz), with optimal performance centered around 10 GHz.
 
 Substrate Details
+
+
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/9ef6c1d2-8757-428b-86c5-83d48a9b39d7" />
 
 
@@ -17,7 +19,9 @@ Quarter-wave microstrip transmission lines, calculated for center frequency of 1
 Isolation resistors of 100 Ω between branch outputs.
 
 
-Component Overview
+Component Overview 
+
+
 <img width="613" alt="image" src="https://github.com/user-attachments/assets/034c6568-f7c8-469c-aab7-f54f33198706" />
 
 
